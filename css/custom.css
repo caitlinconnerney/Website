@@ -1,0 +1,15 @@
+.btn-group-lg>.btn, .btn-lg {
+	float: right;
+}
+
+.container .jumbotron, .container-fluid .jumbotron{
+	color: #fff;
+	background-image: url('http://negativespace.co/wp-content/uploads/2015/06/negativespace-151.jpg');
+	background-position: 75% 40%;
+	padding-bottom: 80px;
+	padding-right: 350px;
+}
+
+#page-content-wrapper{
+	background-color: #DCDCDC;
+}
